@@ -1,0 +1,3 @@
+{
+  pkgs-ouput = ./pkgs-output;
+}

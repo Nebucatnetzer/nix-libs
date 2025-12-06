@@ -1,3 +1,3 @@
 {
-  pkgs-ouput = ./pkgs-output;
+  process-compose = ./process-compose;
 }

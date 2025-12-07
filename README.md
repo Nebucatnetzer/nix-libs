@@ -1,3 +1,3 @@
 # nix-libs
 
-My collection of flake-parts modules.
+My collection of functions and utils for setting up devShells and process-compose.
